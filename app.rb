@@ -12,6 +12,6 @@ require_relative 'lib/event'
 # Tu peux faire User.new, Event.new, binding.pry, User.all, etc.
 
 
-    
+   je veux voir si ça commit direct ... 
 
 
