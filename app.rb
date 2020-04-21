@@ -12,7 +12,6 @@ require_relative 'lib/event'
 # Tu peux faire User.new, Event.new, binding.pry, User.all, etc.
 
 
-
     
 
 
